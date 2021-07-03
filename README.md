@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning object-oriented program design practices, as well as product design with a focus on the outdoors 
 - 😄 I enjoy painting, biking, and playing the kalimba 
 - 💞️ I’m looking to collaborate on software development projects in Java 
+- ⭐ I have personal projects that are currently private to protect my intellectual property since they are from school assignments; programs can be provided to companies upon request
 - 📫 How to reach me: email marks.sh@northeastern.edu
 
 <!---
