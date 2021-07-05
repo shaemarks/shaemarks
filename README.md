@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaemarks
 - 📘 I'm earning my BS in Computer Science at Northeastern University 
-- ✨I've coded in Java, Python, ISL+ for Racket, and I have a little experience with web development 
+- ✨I've coded in Java, Python, ISL+ for Racket, and Go
 - 🌱 I’m currently learning object-oriented program design practices, as well as product design with a focus on the outdoors 
 - 😄 I enjoy painting, biking, and playing the kalimba 
 - 💞️ I’m looking to collaborate on software development projects in Java 
